@@ -9,6 +9,7 @@ Setup:
   
     Move Camera Right  -> l
   
-  To use it simply Tp to the grace and then run the script and alt + tab, it has a 2 second delay that can be altered.
-  
-  To end simply go to the script and Ctrl+C to end it.
+To use just execute the script, alt + tab to Elden Ring, tp to Lenne's Rise grace, and zoom out the nap all the way.
+Remember to not move the mouse.
+To iniciate the macro press F8, and the same to stop it.
+It will stop at the cycle finish.
